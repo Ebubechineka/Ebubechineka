@@ -149,13 +149,42 @@ Financial-education platform: 74-chapter book, 90-day programme, 10 calculators.
 Headmaster's dashboard — enrolment, fees, attendance, library, role-based access.
 [Live site →](https://school-vc7g.vercel.app/)
 
-**Italian Scam Prevention Guide**
-Bilingual IT/EN anti-fraud guide — book production and web edition.
-[Live site →](https://ebubechineka.github.io/ITALIAN-SCAM-PREVENTION/)
+**Non Farti Ingannare** *(published book)*
+A complete Italian-language manual on how online scams and fraud actually work — written, edited, typeset and covered end to end, with a full English edition.
+[Book page →](https://ebubechineka.github.io/ITALIAN-SCAM-PREVENTION/)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📖 Published work
+
+<table>
+<tr>
+<td width="180" valign="top">
+<img src="https://ebubechineka.github.io/ITALIAN-SCAM-PREVENTION/cover_it.png" alt="Non Farti Ingannare — book cover" width="160">
+</td>
+<td valign="top">
+
+### Non Farti Ingannare
+**Come funzionano davvero le truffe e le frodi online — e come proteggere te stesso, la tua famiglia e i tuoi soldi**
+
+A complete Italian-language manual on online fraud, written for readers who are often not confident online — which is exactly the audience most targeted by scams. I wrote it, edited it, set the interior, designed the cover and produced the print-ready and digital files.
+
+- **Two editions** — Italian and English, with a language toggle on the book site
+- **Formats** — print-ready PDF, digital PDF, and a free sample chapter used as the lead magnet
+- **Also produced** — chapter index, red-flag library and downloadable checklists
+- **Imprint** — Golden Vista Global
+
+[Read the book page →](https://ebubechineka.github.io/ITALIAN-SCAM-PREVENTION/) · [See it in the portfolio →](https://ebubechineka.github.io/golden-vista-global/#books)
+
+</td>
+</tr>
+</table>
+
+Five more titles in the catalogue — *Scam Alert*, *The Fraud Investigator's Course*, *Il Corso dell'Investigatore Antifrode*, *The 7-Day AI Side Hustle* and *The Kind Way to a Well-Behaved Dog* — are shown in the [portfolio books section](https://ebubechineka.github.io/golden-vista-global/#books).
 
 **Also built:** a shipping-company front end with a rate calculator, a salon booking site, a skincare brand site, a streetwear storefront, a cafe site, a documentary-filmmaking course, a plumbing/HVAC services site, and an AI visa assistant. All in the [portfolio showcase](https://ebubechineka.github.io/golden-vista-global/).
 
