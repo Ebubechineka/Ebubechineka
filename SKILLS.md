@@ -20,7 +20,7 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 | Skill | Tools | Level | Example work |
 |---|---|---|---|
 | Semantic HTML & accessible markup | HTML5, ARIA | Expert | Every project below |
-| Responsive CSS / mobile-first layout | CSS3, Flexbox, Grid, container queries | Expert | [Golden Vista Global](https://ebubechineka.github.io/golden-vista-global/) |
+| Responsive CSS / mobile-first layout | CSS3, Flexbox, Grid, container queries | Expert | [Golden Vista Global](https://goldenvistaglobal.vercel.app/) |
 | Modern JavaScript | ES2022+, DOM APIs, fetch | Expert | [BYD Nelson](https://byd-nelson.vercel.app/) |
 | React & component architecture | React 18, hooks, Vite | Strong | [School Portal](https://school-vc7g.vercel.app/) |
 | TypeScript | TS 5, typed API layers | Strong | [Techinverse](https://techinverse-solutions.vercel.app/) |
@@ -61,8 +61,8 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 | Brand identity & guidelines | Figma, InDesign | Strong | Client brand kits |
 | Flyers, posters & print collateral | Illustrator, Photoshop, InDesign | Strong | Print + social sets |
 | Social media graphics & templates | Figma, Canva, Photoshop | Strong | Reusable post/story systems |
-| Book cover design (print + Kindle) | Photoshop, InDesign | Strong | [Book covers in portfolio](https://ebubechineka.github.io/golden-vista-global/) |
-| PDF layout & typesetting | InDesign, Affinity Publisher | Strong | [Golden Vista one-pager](https://ebubechineka.github.io/golden-vista-global/golden-vista-global-profile.pdf) |
+| Book cover design (print + Kindle) | Photoshop, InDesign | Strong | [Book covers in portfolio](https://goldenvistaglobal.vercel.app/) |
+| PDF layout & typesetting | InDesign, Affinity Publisher | Strong | [Golden Vista one-pager](https://goldenvistaglobal.vercel.app/golden-vista-global-profile.pdf) |
 | Pitch decks & one-pagers | Figma, InDesign, HTML-to-PDF | Strong | Client proposals |
 | Photo retouching & cut-outs | Photoshop | Working | Portfolio portrait & product shots |
 | Iconography & simple illustration | Illustrator, Figma | Working | Site icon sets |
@@ -82,7 +82,7 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 | Digital PDF (hyperlinked) | InDesign, Acrobat | Strong | Direct-sale PDF editions |
 | EPUB production | InDesign, Sigil, Calibre | Working | Reflowable EPUB exports |
 | KDP / IngramSpark submission | KDP dashboard | Working | Print + digital listings |
-| Course & workbook production | InDesign, HTML | Strong | [Documentary Filmmaking Course](https://ebubechineka.github.io/golden-vista-global/) |
+| Course & workbook production | InDesign, HTML | Strong | [Documentary Filmmaking Course](https://goldenvistaglobal.vercel.app/) |
 
 ---
 
@@ -91,7 +91,7 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 | Skill | Tools | Level | Example work |
 |---|---|---|---|
 | Website copywriting | — | Strong | Every site in the portfolio |
-| Sales / landing page copy | — | Strong | [Meta Ads course page](https://ebubechineka.github.io/golden-vista-global/), [ProvenPath](https://www.provenpath.site/) |
+| Sales / landing page copy | — | Strong | [Meta Ads course page](https://goldenvistaglobal.vercel.app/), [ProvenPath](https://www.provenpath.site/) |
 | Long-form guides & handbooks | — | Strong | [DIY Visa Guide](https://diyvisaguide.org/) |
 | Technical writing & documentation | Markdown, Git | Strong | Repo READMEs across this account |
 | Italian → English translation | — | Strong | [Guida alle truffe online](https://ebubechineka.github.io/ITALIAN-SCAM-PREVENTION/) |
@@ -110,7 +110,7 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 | Vertical / short-form versions | CapCut, Premiere Pro | Working | Reels, TikTok, Shorts cuts |
 | Titles, lower-thirds & motion basics | Premiere Pro, After Effects (basic) | Working | Course and promo graphics |
 | Colour correction & audio cleanup | Premiere Pro, DaVinci Resolve | Working | Delivery-grade exports |
-| Course & lesson production | Premiere Pro, LMS pages | Working | [Documentary Filmmaking Course](https://ebubechineka.github.io/golden-vista-global/) |
+| Course & lesson production | Premiere Pro, LMS pages | Working | [Documentary Filmmaking Course](https://goldenvistaglobal.vercel.app/) |
 
 ---
 
@@ -140,6 +140,6 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 
 <div align="center">
 
-**[← Back to profile](https://github.com/Ebubechineka)** · **[Portfolio](https://ebubechineka.github.io/golden-vista-global/)** · **[Services & pricing](https://ebubechineka.github.io/services/)** · **[WhatsApp](https://wa.me/2348162988462)**
+**[← Back to profile](https://github.com/Ebubechineka)** · **[Portfolio](https://goldenvistaglobal.vercel.app/)** · **[Services & pricing](https://ebubechineka.github.io/services/)** · **[WhatsApp](https://wa.me/2348162988462)**
 
 </div>
