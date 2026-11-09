@@ -2,9 +2,9 @@
 
 # Benito K Chukwuemeka
 
-### I build the website, the brand, and the book — for businesses that need to look established from day one.
+### Self-taught software engineer. I build and ship real products end to end — then design the brand and produce the book that goes with them.
 
-**Websites & web apps · Brand & graphic design · Books & e-books · Content & media**
+**Full-stack engineering · Brand & graphic design · Books & e-books · Content & media**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-goldenvistaglobal.com-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=C9A227)](https://ebubechineka.github.io/golden-vista-global/)
 [![Services](https://img.shields.io/badge/Services_%26_Pricing-See_what_I_do-C9A227?style=for-the-badge&logo=readme&logoColor=0B1F3A)](https://ebubechineka.github.io/services/)
@@ -25,11 +25,25 @@ That's what **Golden Vista Global** is: a one-person studio for businesses that 
 
 ---
 
+## Self-taught engineer
+
+I didn't learn this in a lecture hall. I learned it by shipping.
+
+No CS degree, no bootcamp certificate, no employer name to borrow credibility from. What I have instead is **25+ live sites and applications deployed and running right now** — every one of them built, broken, fixed and launched by me. You can open any of them and click around. That's the credential.
+
+I taught myself the whole chain, because stopping halfway was never an option: markup and styling, then JavaScript, then React and TypeScript, then APIs and data, then authentication and admin panels, then deployment, DNS and hosting. When a client needed a dashboard with logins, I learned what a dashboard with logins takes. When a site needed to survive real traffic on a real domain, I learned that too.
+
+**What that means for you:** I don't hand off the hard part. I don't say "that's a backend thing." I own the project from the first line of markup to the moment your domain resolves over HTTPS — and I can explain every decision in plain language, because I had to figure it out myself rather than memorise it for an exam.
+
+Proof of work over paper credentials. Real deployed products over certificates.
+
+---
+
 ## What I can do for you
 
-### 🌐 Websites & Web Apps
+### 🌐 Software Engineering — Websites & Web Apps
 
-Sites that load fast, read clearly, and make it obvious how to contact you.
+Sites and applications that load fast, read clearly, and make it obvious how to contact you. Built end to end: front end, back end, data, auth, deployment.
 
 | Deliverable | What that means in practice |
 |---|---|
@@ -39,7 +53,9 @@ Sites that load fast, read clearly, and make it obvious how to contact you.
 | **Dashboard / web app** | Logins, roles, records, reports — school portals, admin panels, inventory, booking systems. |
 | **Portfolio site** | For creatives and professionals who need their work to look serious. |
 | **Redesign & rescue** | Existing sites that look dated, load slowly, or lose visitors before they enquire. |
-| **Deployment & hosting** | Live on your own domain, HTTPS, GitHub Pages or Vercel — set up and handed over working. |
+| **Authentication & user accounts** | Sign-up, login, password reset, roles and permissions — real auth, not a mock-up. |
+| **APIs & data** | REST endpoints, database reads/writes, third-party integrations, form handling. |
+| **Deployment & hosting** | Live on your own domain, HTTPS, GitHub Pages, Vercel or Netlify — set up and handed over working. |
 
 ### 🎨 Brand & Graphic Design
 
@@ -96,7 +112,7 @@ No agency process, no account manager. Four steps, and you always know where thi
 
 ## Selected work
 
-Every link opens a real, working product — not a mockup.
+Every link opens a real, working product — not a mockup. 25+ of them are live; these are the ones I'd show first.
 
 <table>
 <tr>
@@ -147,8 +163,9 @@ Bilingual IT/EN anti-fraud guide — book production and web edition.
 
 ## Tools I work with
 
-**Build:** `HTML` `CSS` `JavaScript` `React` `TypeScript` `Vite` `Node.js` `Tailwind CSS`
-**Ship:** `Git` `GitHub` `GitHub Pages` `Vercel` `Netlify` `custom domains & DNS`
+**Front end:** `HTML` `CSS` `JavaScript` `React` `TypeScript` `Vite` `Tailwind CSS`
+**Back end & data:** `Node.js` `REST APIs` `databases` `authentication & roles` `form handling`
+**Ship:** `Git` `GitHub` `GitHub Pages` `Vercel` `Netlify` `custom domains & DNS` `HTTPS`
 **Design:** `Figma` `Canva` `Adobe Photoshop` `Illustrator` `InDesign`
 **Books:** `InDesign` `Affinity Publisher` `EPUB` `KDP print specs`
 **Media:** `Premiere Pro` `CapCut` `DaVinci Resolve`
