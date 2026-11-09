@@ -1,57 +1,172 @@
-# Hi, I'm Benito 👋
+<div align="center">
 
-I'm a self-taught web developer and designer. I build **business websites, landing pages and web apps** for clients here in Nigeria and internationally — the kind of site that makes a business look credible and makes it easy for a customer to get in touch.
+# Benito K Chukwuemeka
 
-I learned by building, not by collecting certificates, and it shows in how I work: I'd rather ship you a working site in a week than a proposal in a month.
+### I build the website, the brand, and the book — for businesses that need to look established from day one.
 
-**Currently available for new projects** — usually replies within a few hours.
+**Websites & web apps · Brand & graphic design · Books & e-books · Content & media**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-goldenvistaglobal.com-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=C9A227)](https://ebubechineka.github.io/golden-vista-global/)
+[![Services](https://img.shields.io/badge/Services_%26_Pricing-See_what_I_do-C9A227?style=for-the-badge&logo=readme&logoColor=0B1F3A)](https://ebubechineka.github.io/services/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348162988462)
+[![Email](https://img.shields.io/badge/Email-Goldenvistaglobal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Goldenvistaglobal@gmail.com)
+
+📍 Nigeria · working with clients worldwide · **available for new projects**
+
+</div>
 
 ---
 
-## 🧰 What I do
+Most freelancers do one thing. A client then has to hire a developer for the site, a designer for the logo, a writer for the copy, and someone else to lay out the PDF — and spend weeks coordinating four people who never speak to each other.
 
-| Service | What you get |
+I do all of it. One person, one invoice, one consistent look across everything you put in front of a customer.
+
+That's what **Golden Vista Global** is: a one-person studio for businesses that need to look credible fast — a shop, a school, a consultancy, an author, a coach.
+
+---
+
+## What I can do for you
+
+### 🌐 Websites & Web Apps
+
+Sites that load fast, read clearly, and make it obvious how to contact you.
+
+| Deliverable | What that means in practice |
 |---|---|
-| **Landing pages** | One page built to sell one thing — an offer, an event, a service |
-| **Business websites** | A complete site for a real business — services, about, gallery, contact |
-| **E-commerce stores** | Product catalogue, cart and checkout that doesn't lose people |
-| **Web apps / platforms** | Accounts, dashboards, data and logic — plus AI features where they help |
-| **Redesign & rescue** | Existing sites that look dated, load slowly or lose visitors |
-| **Care plans** | Hosting, domain, updates and backups — so you don't think about the technical side |
+| **Business website** | 5–10 pages — home, services, about, gallery, contact. Written copy included, not lorem ipsum. |
+| **Landing page** | One page built to sell one thing: an offer, a course, an event, a service. |
+| **E-commerce store** | Product catalogue, categories, cart, checkout, and WhatsApp ordering for the Nigerian market. |
+| **Dashboard / web app** | Logins, roles, records, reports — school portals, admin panels, inventory, booking systems. |
+| **Portfolio site** | For creatives and professionals who need their work to look serious. |
+| **Redesign & rescue** | Existing sites that look dated, load slowly, or lose visitors before they enquire. |
+| **Deployment & hosting** | Live on your own domain, HTTPS, GitHub Pages or Vercel — set up and handed over working. |
 
-Every project starts with a written fixed quote and is delivered in days, not months. You own everything, and you can edit it yourself.
+### 🎨 Brand & Graphic Design
+
+| Deliverable | What that means in practice |
+|---|---|
+| **Logo & brand identity** | Primary logo, variations, colour palette, type pairing, and a one-page usage guide. |
+| **Flyers & posters** | Print-ready and social-ready versions of the same design. |
+| **Social media graphics** | Feed posts, story templates, carousels — a consistent set, not one-offs. |
+| **Book covers** | Front, spine and back, sized correctly for print and for Kindle. |
+| **PDF layout & typesetting** | Reports, proposals, brochures, workbooks — properly set, not a Word export. |
+| **Pitch decks & one-pagers** | The document you send before the meeting. |
+
+### 📚 Books & E-books
+
+Full production, from a rough idea to a file you can upload and sell.
+
+| Deliverable | What that means in practice |
+|---|---|
+| **Writing & ghostwriting** | Non-fiction, guides, courses, business books — written in your voice, under your name. |
+| **Editing & proofreading** | Structural edit, line edit, and a final proofread pass. |
+| **Typesetting & layout** | Interior design set for the trim size, with running heads, chapter openers and clean widows/orphans. |
+| **Cover design** | Designed to read at thumbnail size on Amazon — which is where most buyers first see it. |
+| **Print-ready PDF** | Correct bleed, margins and embedded fonts for KDP, IngramSpark or a local printer. |
+| **Digital PDF & EPUB** | Reflowable EPUB for e-readers, plus a hyperlinked PDF for direct sale. |
+
+### ✍️ Content & Media
+
+| Deliverable | What that means in practice |
+|---|---|
+| **Website copywriting** | Home, about, services and product copy that sounds like a business, not a template. |
+| **Sales & landing copy** | Offer, proof, objection handling, call to action. |
+| **Translation** | Italian ↔ English, with the register kept intact — not machine output. |
+| **Video editing** | Cuts, captions, titles, music, vertical versions for Reels/TikTok/Shorts. |
+| **Digital production** | Course pages, lead magnets, downloadable guides, email sequences. |
 
 ---
 
-## 🚀 Selected work
+## How I work
 
-Every link below opens a real, working product — not a mockup.
+No agency process, no account manager. Four steps, and you always know where things stand.
 
-| Project | What it is | Live |
+| | Step | What happens |
 |---|---|---|
-| **Golden Vista Global — portfolio** | This portfolio: services, pricing in ₦ & $, project showcase and contact | [ebubechineka.github.io/golden-vista-global](https://ebubechineka.github.io/golden-vista-global/) |
-| **DIY Visa Guide** | Immigration-planning platform: master handbook, 19 tools, AI assistant, checkout | [diyvisaguide.org](https://diyvisaguide.org/) |
-| **ProvenPath** | Financial-education platform: 74-chapter master book, 90-day programme, 10 calculators | [provenpath.site](https://www.provenpath.site/) |
-| **Techinverse Solutions** | Laptop & tech retail store for Nigeria — pay on delivery, marketer programme | [techinverse-solutions.vercel.app](https://techinverse-solutions.vercel.app/) |
-| **BYD Nelson** | Full EV dealership site with live inventory, test-drive booking and an admin panel | [byd-nelson.vercel.app](https://byd-nelson.vercel.app/) |
-| **Linbxx** | Editorial home-goods storefront — product grid, collections, mobile checkout | [linbxx.vercel.app](https://linbxx.vercel.app/) |
-| **School Management Portal** | Headmaster's dashboard — enrolment, fees, attendance, library, role-based access | [school-vc7g.vercel.app](https://school-vc7g.vercel.app/) |
+| **1** | **Brief** | You tell me the goal in plain language — WhatsApp is fine. I ask the questions that actually change the design. |
+| **2** | **Fixed quote** | You get a written scope and a fixed price before anything starts. No hourly surprises. |
+| **3** | **Deposit & build** | A deposit books your slot. You see a working draft — a real link, not a picture of one — usually within days. |
+| **4** | **Revisions & handover** | Two rounds of revisions are included. Then you get the files, the logins, and a walkthrough of how to edit it yourself. |
 
-More projects live in the [portfolio showcase](https://ebubechineka.github.io/golden-vista-global/) — a shipping front end, a salon booking site, a skincare brand, a streetwear store, an AI visa assistant and more. All built by me, start to finish.
+**What you own:** everything. Domain, hosting, source files, design files, book files. Nothing is held hostage.
 
----
-
-## 🛠️ Tech I work with
-
-`HTML` · `CSS` · `JavaScript` · `React` · `TypeScript` · `Vite` · `Node.js` · `Git & GitHub` · `GitHub Pages` · `Vercel` · `Tailwind CSS` · AI-assisted development workflows
+**What I don't do:** fake reviews, invented client numbers, or promising a deadline I can't hit. If a project isn't a fit, I'll say so at the brief stage rather than take the deposit.
 
 ---
 
-## 📫 Get in touch
+## Selected work
 
-- **WhatsApp:** [+234 816 298 8462](https://wa.me/2348162988462)
-- **Email:** [Goldenvistaglobal@gmail.com](mailto:Goldenvistaglobal@gmail.com)
-- **Instagram:** [@goldenvistaglobal](https://www.instagram.com/goldenvistaglobal)
-- **Facebook:** [Golden Vista Global](https://www.facebook.com/profile.php?id=61594172822072)
+Every link opens a real, working product — not a mockup.
 
-📍 Nigeria · working with clients worldwide
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Golden Vista Global — portfolio**
+My own studio site: services, pricing in ₦ and $, project showcase, contact.
+[Live site →](https://ebubechineka.github.io/golden-vista-global/)
+
+**Techinverse Solutions**
+Laptop & tech retail store for Nigeria — pay on delivery, marketer programme.
+[Live site →](https://techinverse-solutions.vercel.app/)
+
+**BYD Nelson**
+EV dealership: live inventory, test-drive booking, admin panel.
+[Live site →](https://byd-nelson.vercel.app/)
+
+**Linbxx**
+Editorial home-goods storefront — product grid, collections, mobile checkout.
+[Live site →](https://linbxx.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**DIY Visa Guide**
+Immigration-planning platform: handbook, 19 tools, AI assistant, checkout.
+[Live site →](https://diyvisaguide.org/)
+
+**ProvenPath**
+Financial-education platform: 74-chapter book, 90-day programme, 10 calculators.
+[Live site →](https://www.provenpath.site/)
+
+**School Management Portal**
+Headmaster's dashboard — enrolment, fees, attendance, library, role-based access.
+[Live site →](https://school-vc7g.vercel.app/)
+
+**Italian Scam Prevention Guide**
+Bilingual IT/EN anti-fraud guide — book production and web edition.
+[Live site →](https://ebubechineka.github.io/ITALIAN-SCAM-PREVENTION/)
+
+</td>
+</tr>
+</table>
+
+**Also built:** a shipping-company front end with a rate calculator, a salon booking site, a skincare brand site, a streetwear storefront, a cafe site, a documentary-filmmaking course, a plumbing/HVAC services site, and an AI visa assistant. All in the [portfolio showcase](https://ebubechineka.github.io/golden-vista-global/).
+
+---
+
+## Tools I work with
+
+**Build:** `HTML` `CSS` `JavaScript` `React` `TypeScript` `Vite` `Node.js` `Tailwind CSS`
+**Ship:** `Git` `GitHub` `GitHub Pages` `Vercel` `Netlify` `custom domains & DNS`
+**Design:** `Figma` `Canva` `Adobe Photoshop` `Illustrator` `InDesign`
+**Books:** `InDesign` `Affinity Publisher` `EPUB` `KDP print specs`
+**Media:** `Premiere Pro` `CapCut` `DaVinci Resolve`
+**Also:** AI-assisted workflows, technical writing, Italian ↔ English translation
+
+---
+
+<div align="center">
+
+## Let's talk about your project
+
+Tell me what you're building and I'll tell you honestly what it takes — usually within a few hours.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B234_816_298_8462-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348162988462)
+[![Email](https://img.shields.io/badge/Email-Goldenvistaglobal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Goldenvistaglobal@gmail.com)
+
+[Portfolio](https://ebubechineka.github.io/golden-vista-global/) · [Services & pricing](https://ebubechineka.github.io/services/) · [Skills matrix](SKILLS.md) · [Instagram](https://www.instagram.com/goldenvistaglobal) · [Facebook](https://www.facebook.com/profile.php?id=61594172822072)
+
+<sub>Golden Vista Global · Nigeria · working with clients worldwide</sub>
+
+</div>
