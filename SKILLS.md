@@ -1,6 +1,8 @@
 # Skills Matrix — Benito K Chukwuemeka
 
-A detailed, honest breakdown of what I can deliver, the tools I use, and real work that demonstrates each skill.
+**Self-taught software engineer** · full-stack web · brand & graphic design · books & e-books · content & media
+
+A detailed, honest breakdown of what I can deliver, the tools I use, and real work that demonstrates each skill. I learned all of this by building and shipping — 25+ live products, no degree, no bootcamp. Every "example work" link below is a real deployed site you can open.
 
 **Level key**
 
@@ -13,7 +15,7 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 
 ---
 
-## 1. Web Development
+## 1. Software Engineering — Front End
 
 | Skill | Tools | Level | Example work |
 |---|---|---|---|
@@ -28,12 +30,30 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 | Static site generation & mirrors | Custom capture/rebuild tooling | Strong | [BYD Nelson](https://byd-nelson.vercel.app/), [FedEx front end](https://ebubechineka.github.io/fedex-clone/) |
 | Deployment & DNS | GitHub Pages, Vercel, Netlify, CNAME/HTTPS | Expert | All live links |
 | Performance & image optimisation | WebP/AVIF, lazy loading, srcset | Strong | [Linbxx](https://linbxx.vercel.app/) (388 MB of source assets optimised) |
-| Node.js scripting & build tooling | Node 20, npm, custom scripts | Working | Internal build/capture tooling |
+| Node.js scripting & build tooling | Node 20, npm, custom scripts | Strong | Internal build/capture tooling |
 | AI integration in products | LLM APIs, prompt design, guardrails | Working | [DIY Visa AI](https://diyvisaguide.org/) |
 
 ---
 
-## 2. Graphic & Brand Design
+## 2. Software Engineering — Back End, Data & Deployment
+
+| Skill | Tools | Level | Example work |
+|---|---|---|---|
+| REST API design & consumption | Node.js, fetch, JSON | Strong | [DIY Visa Guide](https://diyvisaguide.org/), [School Portal](https://school-vc7g.vercel.app/) |
+| Authentication & user accounts | Session/token auth, password reset, roles | Strong | [School Portal](https://school-vc7g.vercel.app/) (role-based access) |
+| Admin panels & CRUD interfaces | Forms, validation, tables, filters | Strong | [BYD Nelson](https://byd-nelson.vercel.app/) admin panel |
+| Database reads/writes & data modelling | SQL, JSON stores, schema design | Working | [School Portal](https://school-vc7g.vercel.app/) (enrolment, fees, attendance) |
+| Form handling & validation | Client + server validation, spam control | Strong | Contact forms across all client sites |
+| Third-party integrations | Payment, maps, messaging, AI APIs | Working | [Techinverse](https://techinverse-solutions.vercel.app/) (pay on delivery), WhatsApp ordering |
+| Deployment & hosting | GitHub Pages, Vercel, Netlify | Expert | 25+ live deployments |
+| Domains, DNS & HTTPS | CNAME, A records, SSL, redirects | Strong | [diyvisaguide.org](https://diyvisaguide.org/), [provenpath.site](https://www.provenpath.site/) |
+| Git & version control | Git, GitHub, branching, PRs | Strong | This entire account |
+| Performance & image optimisation | WebP/AVIF, lazy loading, srcset | Strong | [Linbxx](https://linbxx.vercel.app/) (388 MB of source assets optimised) |
+| Debugging & rescue of broken builds | DevTools, logs, bisecting | Strong | Multiple client site rescues |
+
+---
+
+## 3. Graphic & Brand Design
 
 | Skill | Tools | Level | Example work |
 |---|---|---|---|
@@ -49,7 +69,7 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 
 ---
 
-## 3. Books & E-book Production
+## 4. Books & E-book Production
 
 | Skill | Tools | Level | Example work |
 |---|---|---|---|
@@ -66,7 +86,7 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 
 ---
 
-## 4. Content, Copy & Translation
+## 5. Content, Copy & Translation
 
 | Skill | Tools | Level | Example work |
 |---|---|---|---|
@@ -81,7 +101,7 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 
 ---
 
-## 5. Video & Digital Production
+## 6. Video & Digital Production
 
 | Skill | Tools | Level | Example work |
 |---|---|---|---|
@@ -94,7 +114,7 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 
 ---
 
-## 6. Delivery, Process & Client Work
+## 7. Delivery, Process & Client Work
 
 | Skill | Level | Notes |
 |---|---|---|
@@ -110,8 +130,8 @@ A detailed, honest breakdown of what I can deliver, the tools I use, and real wo
 
 ## What I'm deliberately honest about
 
-- **I'm self-taught.** No CS degree, no bootcamp certificate. What I have is a large body of shipped work — every link in this account is a real, working product.
-- **I'm not a backend/infrastructure engineer.** I build front ends, static sites, and app-layer logic. For heavy server architecture, databases at scale, or DevOps, I'll tell you and recommend someone.
+- **I'm self-taught, and that's the point.** No CS degree, no bootcamp certificate, no employer to borrow credibility from. What I have is 25+ live products I built, broke, fixed and shipped myself. Proof of work over paper credentials.
+- **I'm not a large-scale infrastructure engineer.** I build and ship full products — front end, app logic, auth, data, deployment. For distributed systems, high-availability architecture or dedicated DevOps, I'll tell you and recommend someone.
 - **Video is a working skill, not my headline.** I can edit, caption and deliver cleanly; I'm not a motion-graphics studio.
 - **EPUB is working-level.** I produce clean reflowable EPUBs; complex fixed-layout illustrated books may need a specialist.
 - **No fake numbers.** I don't publish invented client counts, revenue figures or testimonials. If you want references, ask and I'll point you to live work you can inspect yourself.
