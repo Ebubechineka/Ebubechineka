@@ -7,7 +7,7 @@
 **Full-stack engineering · Brand & graphic design · Books & e-books · Content & media**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-goldenvistaglobal.com-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=C9A227)](https://goldenvistaglobal.vercel.app/)
-[![Services](https://img.shields.io/badge/Services_%26_Pricing-See_what_I_do-C9A227?style=for-the-badge&logo=readme&logoColor=0B1F3A)](https://goldenvistaglobal.vercel.app/#services)
+[![Services](https://img.shields.io/badge/Services_%26_Pricing-See_what_I_do-C9A227?style=for-the-badge&logo=readme&logoColor=0B1F3A)](https://ebubechineka.github.io/services/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348162988462)
 [![Email](https://img.shields.io/badge/Email-Goldenvistaglobal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Goldenvistaglobal@gmail.com)
 
@@ -151,7 +151,7 @@ Headmaster's dashboard — enrolment, fees, attendance, library, role-based acce
 
 **Non Farti Ingannare** *(published book)*
 A complete Italian-language manual on how online scams and fraud actually work — written, edited, typeset and covered end to end, with a full English edition.
-[Book page →](https://guida-completa-alle-truffe-online-e.vercel.app/)
+[Book page →](https://ebubechineka.github.io/ITALIAN-SCAM-PREVENTION/)
 
 </td>
 </tr>
@@ -164,7 +164,7 @@ A complete Italian-language manual on how online scams and fraud actually work �
 <table>
 <tr>
 <td width="180" valign="top">
-<img src="https://guida-completa-alle-truffe-online-e.vercel.app/images/cover_it.png" alt="Non Farti Ingannare — book cover" width="160">
+<img src="https://ebubechineka.github.io/ITALIAN-SCAM-PREVENTION/cover_it.png" alt="Non Farti Ingannare — book cover" width="160">
 </td>
 <td valign="top">
 
@@ -178,13 +178,13 @@ A complete Italian-language manual on online fraud, written for readers who are 
 - **Also produced** — chapter index, red-flag library and downloadable checklists
 - **Imprint** — Golden Vista Global
 
-[Read the book page →](https://guida-completa-alle-truffe-online-e.vercel.app/) · [See it in the portfolio →](https://goldenvistaglobal.vercel.app/#books)
+[Read the book page →](https://ebubechineka.github.io/ITALIAN-SCAM-PREVENTION/) · [See it in the portfolio →](https://goldenvistaglobal.vercel.app/#books)
 
 </td>
 </tr>
 </table>
 
-Five more titles in the catalogue — *Scam Alert*, *The Fraud Investigator's Course*, *Il Corso dell'Investigatore Antifrode*, *The 7-Day AI Side Hustle* and *The Kind Way to a Well-Behaved Dog* — are shown in the [portfolio books section](https://goldenvistaglobal.vercel.app/#books).
+Five more titles in the catalogue — *Don't Get Fooled* (the English edition of the same guide), *The Fraud Investigator's Course*, *Il Corso dell'Investigatore Antifrode*, *The 7-Day AI Side Hustle* and *The Kind Way to a Well-Behaved Dog* — are shown in the [portfolio books section](https://goldenvistaglobal.vercel.app/#books).
 
 **Also built:** a shipping-company front end with a rate calculator, a salon booking site, a skincare brand site, a streetwear storefront, a cafe site, a documentary-filmmaking course, a plumbing/HVAC services site, and an AI visa assistant. All in the [portfolio showcase](https://goldenvistaglobal.vercel.app/).
 
@@ -211,7 +211,7 @@ Tell me what you're building and I'll tell you honestly what it takes — usuall
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B234_816_298_8462-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348162988462)
 [![Email](https://img.shields.io/badge/Email-Goldenvistaglobal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Goldenvistaglobal@gmail.com)
 
-[Portfolio](https://goldenvistaglobal.vercel.app/) · [Services & pricing](https://goldenvistaglobal.vercel.app/#services) · [Skills matrix](SKILLS.md) · [Instagram](https://www.instagram.com/goldenvistaglobal) · [Facebook](https://www.facebook.com/profile.php?id=61594172822072)
+[Portfolio](https://goldenvistaglobal.vercel.app/) · [Services & pricing](https://ebubechineka.github.io/services/) · [Skills matrix](SKILLS.md) · [Instagram](https://www.instagram.com/goldenvistaglobal) · [Facebook](https://www.facebook.com/profile.php?id=61594172822072)
 
 <sub>Golden Vista Global · Nigeria · working with clients worldwide</sub>
 
